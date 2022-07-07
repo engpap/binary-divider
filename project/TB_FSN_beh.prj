@@ -1,0 +1,3 @@
+vhdl work "FS.vhd"
+vhdl work "FSN.vhd"
+vhdl work "TB_FSN.vhd"

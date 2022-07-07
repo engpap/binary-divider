@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/andre/BinaryDivider/TB_DIVIDER_isim_par.exe" -prj "/home/andre/BinaryDivider/TB_DIVIDER_par.prj" "work.TB_DIVIDER" 
